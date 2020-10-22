@@ -26,18 +26,23 @@ You will need the following installed on your computer system and import the fol
 ## Code Snippets
 
 * Data Structures
+
 ![1](./filter/images/readme/1_dataStructures.png)
 
 * Grey Scale Filter Function
+
 ![2](./filter/images/readme/2_greyscale_func.png)
 
 * Sepia Filter Function
+
 ![3](./filter/images/readme/3_sepia_func.png)
 
 * Reflection Filter Function
+
 ![4](./filter/images/readme/4_reflect_func.png)
 
 * Blur Filter Function
+
 ![5](./filter/images/readme/5_blur_func.png)
 
 
