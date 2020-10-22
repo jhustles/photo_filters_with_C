@@ -1,6 +1,6 @@
 # Photo Filters Using C-Programming: 
 
-![intro](./images/readme/0_introPic.jpg)
+![intro](./filter/images/readme/0_introPic.jpg)
 
 
 ## Scope & Purpose | Main Built-in Functionalities
@@ -26,27 +26,27 @@ You will need the following installed on your computer system and import the fol
 ## Code Snippets
 
 * Data Structures
-![1](./images/readme/1_dataStructures.png)
+![1](./filter/images/readme/1_dataStructures.png)
 
 * Grey Scale Filter Function
-![2](./images/readme/2_greyscale_func.png)
+![2](./filter/images/readme/2_greyscale_func.png)
 
 * Sepia Filter Function
-![3](./images/readme/3_sepia_func.png)
+![3](./filter/images/readme/3_sepia_func.png)
 
 * Reflection Filter Function
-![4](./images/readme/4_reflect_func.png)
+![4](./filter/images/readme/4_reflect_func.png)
 
 * Blur Filter Function
-![5](./images/readme/5_blur_func.png)
+![5](./filter/images/readme/5_blur_func.png)
 
 
 ## Filter Program
 
-![6](./images/readme/6_filter_c1.png)
-![7](./images/readme/7_filter_c2.png)
-![8](./images/readme/8_filter_c3.png)
-![9](./images/readme/9_filter_c4.png)
+![6](./filter/images/readme/6_filter_c1.png)
+![7](./filter/images/readme/7_filter_c2.png)
+![8](./filter/images/readme/8_filter_c3.png)
+![9](./filter/images/readme/9_filter_c4.png)
 
 
 ## Output Examples - Before And With Filters
@@ -54,36 +54,36 @@ You will need the following installed on your computer system and import the fol
 ### Example 1)
 
 * Courtyard Before
-![courtyard_before](./images/courtyard.bmp)
+![courtyard_before](./filter/images/courtyard.bmp)
 
 * Courtyard Greyscale
-![courtyard_greyscale](./images/filtered_images/greyscale_courtyard.bmp)
+![courtyard_greyscale](./filter/images/filtered_images/greyscale_courtyard.bmp)
 
 * Courtyard Sepia
-![courtyard_sepia](./images/filtered_images/sepia_courtyard.bmp)
+![courtyard_sepia](./filter/images/filtered_images/sepia_courtyard.bmp)
 
 * Courtyard Reflection
-![courtyard_reflection](./images/filtered_images/reflection_courtyard.bmp)
+![courtyard_reflection](./filter/images/filtered_images/reflection_courtyard.bmp)
 
 * Courtyard Blur
-![courtyard_blur](./images/filtered_images/blur_courtyard.bmp)
+![courtyard_blur](./filter/images/filtered_images/blur_courtyard.bmp)
 
 ### Example 2)
 
 * Tower Before
-![tower_before](./images/courtyard.bmp)
+![tower_before](./filter/images/courtyard.bmp)
 
 * Tower Greyscale
-![tower_greyscale](./images/filtered_images/greyscale_tower.bmp)
+![tower_greyscale](./filter/images/filtered_images/greyscale_tower.bmp)
 
 * Tower Sepia
-![tower_sepia](./images/filtered_images/sepia_tower.bmp)
+![tower_sepia](./filter/images/filtered_images/sepia_tower.bmp)
 
 * Tower Reflection
-![tower_reflection](./images/filtered_images/reflection_tower.bmp)
+![tower_reflection](./filter/images/filtered_images/reflection_tower.bmp)
 
 * Tower Blur
-![tower_blur](./images/filtered_images/blur_tower.bmp)
+![tower_blur](./filter/images/filtered_images/blur_tower.bmp)
 
 
 
