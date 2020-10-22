@@ -59,35 +59,45 @@ You will need the following installed on your computer system and import the fol
 ### Example 1)
 
 * Courtyard Before
+
 ![courtyard_before](./filter/images/courtyard.bmp)
 
 * Courtyard Greyscale
+
 ![courtyard_greyscale](./filter/images/filtered_images/greyscale_courtyard.bmp)
 
 * Courtyard Sepia
+
 ![courtyard_sepia](./filter/images/filtered_images/sepia_courtyard.bmp)
 
 * Courtyard Reflection
+
 ![courtyard_reflection](./filter/images/filtered_images/reflection_courtyard.bmp)
 
 * Courtyard Blur
+
 ![courtyard_blur](./filter/images/filtered_images/blur_courtyard.bmp)
 
 ### Example 2)
 
 * Tower Before
+
 ![tower_before](./filter/images/courtyard.bmp)
 
 * Tower Greyscale
+
 ![tower_greyscale](./filter/images/filtered_images/greyscale_tower.bmp)
 
 * Tower Sepia
+
 ![tower_sepia](./filter/images/filtered_images/sepia_tower.bmp)
 
 * Tower Reflection
+
 ![tower_reflection](./filter/images/filtered_images/reflection_tower.bmp)
 
 * Tower Blur
+
 ![tower_blur](./filter/images/filtered_images/blur_tower.bmp)
 
 
